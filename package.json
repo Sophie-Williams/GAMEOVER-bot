@@ -1,0 +1,17 @@
+
+{
+
+  "name": "bot",
+  "description": "discord bot",
+  "version": "1.1.0",
+  "main": "bot.py",
+  "scripts": {
+    "start": "node bot.py"
+  },
+
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+
+}
